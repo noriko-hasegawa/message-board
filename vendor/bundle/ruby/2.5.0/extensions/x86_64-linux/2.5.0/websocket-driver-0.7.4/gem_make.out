@@ -1,0 +1,15 @@
+current directory: /home/ubuntu/environment/message-board/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/home/ubuntu/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20210610-9652-13k5pi5.rb extconf.rb
+creating Makefile
+
+current directory: /home/ubuntu/environment/message-board/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/ubuntu/environment/message-board/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/ubuntu/environment/message-board/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20210610-9652-1nz2w2w
